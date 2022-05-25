@@ -1,11 +1,11 @@
 # Hi! I'm Samuel Rodrigues.
 ## Welcome to my Github profile.
-
+   <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 <div>
 <a href="https://github.com/SamuelTRodrigues">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTRodrigues&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelTRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTRodrigues&layout=compact&langs_count=7&theme=dracula"/>   <img x
 </div>
+
   <h3>Languages I most use:</h3>
   
 <div>  
@@ -28,3 +28,4 @@
 ![Snake animation](https://github.com/SamuelTRodrigues/SamuelTRodrigues/blob/output/github-contribution-grid-snake.svg)
  
   </div>
+ 
